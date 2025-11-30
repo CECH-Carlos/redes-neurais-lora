@@ -1,4 +1,0 @@
-hidden_dim: 128
-input_dim: 64
-lr: 0.001
-vocab_size: 1000
