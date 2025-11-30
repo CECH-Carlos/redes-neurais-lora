@@ -1,1 +1,1 @@
-# redes-neurais-lora
+# Redes Neurais LoRA
